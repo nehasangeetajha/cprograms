@@ -1,5 +1,5 @@
 #include <stdio.h>
-int factr(int i)
+int factr(int i) //factorial
 {
     if(i==1)
         return 0;
