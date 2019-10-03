@@ -12,6 +12,5 @@ int main()
             c++;
             printf("\n");
     }
-    getch();
     return 0;
 }
